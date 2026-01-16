@@ -1,4 +1,4 @@
-package Lab2;
+package bankaccount1;
 
 public class Main {
 
