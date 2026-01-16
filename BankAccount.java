@@ -1,5 +1,4 @@
 package bankaccount1;
-
 public class BankAccount {
 
  private String accountHolder;
