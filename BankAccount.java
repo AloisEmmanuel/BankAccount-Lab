@@ -1,5 +1,4 @@
-package BankAccount1;
-
+package bankaccount1;
 
 public class BankAccount {
 
