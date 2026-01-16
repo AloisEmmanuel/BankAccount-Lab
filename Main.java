@@ -36,7 +36,7 @@ public class Main {
 	     account1.printAccountDetails();
 
 	    
-	     System.out.println("Account Status via getter: " + account1.getAccountStatus());
+	    System.out.println("Account Status via getter: " + account1.getAccountStatus());
 	     account1.freezeAccount();
 	     System.out.println("Account Status after freeze: " + account1.getAccountStatus());
 	 }
